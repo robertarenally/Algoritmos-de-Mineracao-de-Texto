@@ -1,3 +1,4 @@
 # Algoritmos-de-Mineracao-de-Texto
-Este repositório tem como objetivo armazenar a implementação de vários algoritmos de Mineração de Texto
-O pipeline do algoritmo dos K-vizinhos mais próximos está com erro, pois o algoritmo knn não possui o método predict. Então ainda tenho que refazer esse algoritmo
+Este repositório tem como objetivo armazenar a implementação de vários algoritmos de classificação de texto, em python, cada um rodando sobre o mesmo dataset (20newsgroups). 
+
+Para a elaboração dos algoritmos, além das bibliotecas padrões do python também foi utilizadas as biliotecas nltk e sklearn.
