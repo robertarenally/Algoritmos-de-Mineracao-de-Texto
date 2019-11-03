@@ -1,0 +1,12 @@
+params,{'clf__n_estimators': 10},{'clf__n_estimators': 20},{'clf__n_estimators': 30},{'clf__n_estimators': 40},{'clf__n_estimators': 50},{'clf__n_estimators': 60},{'clf__n_estimators': 70},{'clf__n_estimators': 80},{'clf__n_estimators': 90},{'clf__n_estimators': 100}
+rank 20ng,1.0,2.0,3.0,4.0,5.0,6.0,8.0,7.0,9.0,10.0
+rank Classic3,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.5,9.5
+rank CSTR,1.5,1.5,3.5,7.0,9.5,9.5,7.0,3.5,5.0,7.0
+rank Irish Economic Sentiment,1.0,2.0,3.0,4.0,5.5,7.0,5.5,10.0,8.0,9.0
+rank Multi Domain Sentiment,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0
+rank NSF,1.0,2.0,3.0,4.0,5.0,6.0,9.0,7.0,8.0,10.0
+rank Opinosis-Parsed,1.0,2.0,3.0,4.0,6.0,9.0,7.0,10.0,8.0,5.0
+rank re8,1.0,2.0,3.0,5.0,4.0,6.0,7.0,9.0,8.0,10.0
+rank Review Polarity,1.0,2.0,3.0,4.0,5.0,6.0,7.0,9.0,10.0,8.0
+rank Reviews,1.0,2.0,3.0,4.0,5.0,10.0,6.0,9.0,8.0,7.0
+rank SyskillWelbert-Parsed,1.0,3.0,2.0,5.0,6.0,4.0,9.5,9.5,7.5,7.5

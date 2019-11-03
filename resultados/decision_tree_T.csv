@@ -1,0 +1,12 @@
+params,{'dtc__criterion': 'gini'; 'dtc__splitter': 'best'},{'dtc__criterion': 'gini'; 'dtc__splitter': 'random'},{'dtc__criterion': 'entropy'; 'dtc__splitter': 'best'},{'dtc__criterion': 'entropy'; 'dtc__splitter': 'random'}
+rank 20ng,3.0,4.0,2.0,1.0
+rank Classic3,4.0,3.0,2.0,1.0
+rank CSTR,1.0,4.0,2.0,3.0
+rank Irish Economic Sentiment,3.0,4.0,2.0,1.0
+rank Multi Domain Sentiment,1.0,3.0,2.0,4.0
+rank NSF,3.0,4.0,1.0,2.0
+rank Opinosis-Parsed,4.0,3.0,1.0,2.0
+rank re8,4.0,2.0,3.0,1.0
+rank Review Polarity,2.0,1.0,3.0,4.0
+rank Reviews,3.0,2.0,4.0,1.0
+rank SyskillWelbert-Parsed,4.0,1.0,3.0,2.0
